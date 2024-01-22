@@ -72,8 +72,13 @@ def main():
     - Frequência (F): Quantidade total de compras no período.
     - Valor (V): Total de dinheiro gasto nas compras do período.
 
-    Adicione o arquivo CSV para segmentar os dados - "dados_input 1"
-    """)
+    Adicione o arquivo CSV para segmentar os dados:""")
+
+    st.write("""
+- [Dados Input 1](https://github.com/guilherme-rhein/marketing_customer_segmentation/blob/main/dados_input%201.csv)
+- [Dados Input 2](https://github.com/guilherme-rhein/marketing_customer_segmentation/blob/main/dados_test_input%202.csv)
+""")
+
     st.markdown("---")
     
     # Botão para carregar arquivo na aplicação
