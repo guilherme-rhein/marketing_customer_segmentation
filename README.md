@@ -6,7 +6,7 @@
 
 ---
 <h3 align="center">
-    🎯 Experimente Aqui: <a href="https://www.linkedin.com/in/guilherme-rhein/">Aplicativo para Segmentação de Clientes 🎯</a>
+    🎯 Experimente Aqui: <a href="https://app-segmentacao-rfv.onrender.com">Aplicativo para Segmentação de Clientes 🎯</a>
     <br><br>
     💾 Base de dados: <a href="https://github.com/guilherme-rhein/marketing_customer_segmentation/blob/main/dados_input%201.csv">📊 Download 📈</a>
 </h3>
