@@ -7,7 +7,8 @@
 ---
 <h3 align="center">
     🎯 Experimente Aqui: <a href="https://www.linkedin.com/in/guilherme-rhein/">Aplicativo para Segmentação de Clientes 🎯</a>
-    💾 Base de dados: <a href="https://www.linkedin.com/in/guilherme-rhein/">📊 Download 📈</a>
+    <br><br>
+    💾 Base de dados: <a href="https://github.com/guilherme-rhein/marketing_customer_segmentation/blob/main/dados_input%201.csv">📊 Download 📈</a>
 </h3>
 
 ---
@@ -20,11 +21,9 @@ implementação de estratégias de marketing e CRM mais eficazes.
 
 ## Principais Funcionalidades 🛠️
 
-> Recência (R): Calcula a quantidade de dias desde a última compra de cada cliente.
->
-> Frequência (F): Determina o total de compras realizadas no período analisado.
->
-> Valor (V): Avalia o montante total gasto pelos clientes em suas compras.
+- Recência (R): Calcula a quantidade de dias desde a última compra de cada cliente.
+- Frequência (F): Determina o total de compras realizadas no período analisado.
+- Valor (V): Avalia o montante total gasto pelos clientes em suas compras.
 
 ## Objetivo ✔️
 
@@ -40,25 +39,23 @@ Conseguimos definir os principais benefícios:
 
 - **Otimização de Recursos:** Ao direcionar esforços de marketing e CRM com base nas características RFV, as ações tornam-se mais eficientes e orientadas para resultados, tratando cada cliente com exclusividade.
 
-## Como Utilizar 🛠️
+## Como Utilizar 🎈
 
-> **Entrada de Dados:** Faça o Download do arquivo de dados como exemplo, são informações relacionadas a cada transação do cliente, incluindo a data da compra e o valor gasto.
->
-> **Execução do Aplicativo:** O algoritmo calculará automaticamente as métricas de Recência, Frequência e Valor para cada cliente.
->
-> **Resultados e Classificação:** Os clientes serão classificados nas classes de A até D, indicando a estratégia recomendada para cada segmento.
+- **Entrada de Dados:** Faça o Download do arquivo de dados como exemplo, são informações relacionadas a cada transação do cliente, incluindo a data da compra e o valor gasto.
+- **Execução do Aplicativo:** O algoritmo calculará automaticamente as métricas de Recência, Frequência e Valor para cada cliente.
+- **Resultados e Classificação:** Os clientes serão classificados nas classes de A até D, indicando a estratégia recomendada para cada segmento.
 
 Este projeto é uma valiosa ferramenta para empresas que buscam otimizar suas estratégias de marketing e CRM, promovendo uma abordagem mais personalizada e eficaz para cada cliente.
 
-## Dependencias e Instalação
+## Dependencias e Instalação 📌
 
 1. **Instalação:**                   
-   - Clone o repositório: `git clone https://`
+   - Clone o repositório: `git clone https://github.com/guilherme-rhein/marketing_customer_segmentation.git`
    - Instale as dependências: `npm install` ou `pip install -r requirements.txt` 
 
 2. **Execução do código:**
    - Execute o projeto: `app_RFV.py`
-   - Utilize a base de dados `dados_input 1.csv` ou `dados_test_input 2`
+   - Utilize a base de dados `dados_input 1.csv` ou `dados_test_input 2.csv`
 
 3. **Acesse o Sistema:**
    - Abra utilizando `streamlit run app_RFV.py`
